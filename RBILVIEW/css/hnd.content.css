@@ -1,0 +1,251 @@
+/* ========== Text Styles ========== */
+hr { color: #000000}
+.main-content, .main-content table span.rvts0 /* Normal text */
+{
+ font-size: 10pt;
+ font-family: 'Arial', 'Helvetica', sans-serif;
+ font-style: normal;
+ font-weight: normal;
+ color: #000000;
+ text-decoration: none;
+}
+span.rvts1 /* Heading */
+{
+ font-weight: bold;
+ color: #0000ff;
+}
+span.rvts2 /* Subheading */
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts3 /* Keywords */
+{
+ font-style: italic;
+ color: #800000;
+}
+a.rvts4, span.rvts4 /* Jump 1 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+a.rvts5, span.rvts5 /* Jump 2 */
+{
+ color: #008000;
+ text-decoration: underline;
+}
+span.rvts6
+{
+}
+span.rvts7
+{
+ font-size: 12pt;
+ vertical-align: super;
+}
+span.rvts8
+{
+ font-size: 12pt;
+}
+span.rvts9
+{
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts10
+{
+ color: #000080;
+}
+span.rvts11
+{
+ font-weight: bold;
+}
+a.rvts12, span.rvts12
+{
+ text-decoration: none;
+ border-bottom: double;
+}
+span.rvts13
+{
+ display: none;
+}
+span.rvts14
+{
+ vertical-align: super;
+}
+span.rvts15
+{
+ font-style: italic;
+}
+span.rvts16
+{
+ font-size: 9pt;
+ font-family: Symbola, 'Arial Unicode MS', 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+ font-weight: bold;
+}
+span.rvts17
+{
+ font-size: 9pt;
+ font-family: Symbola, 'Arial Unicode MS', 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+}
+span.rvts18
+{
+ font-size: 8pt;
+ color: #000080;
+}
+span.rvts19
+{
+ font-size: 9pt;
+ font-family: Symbola, 'Arial Unicode MS', 'Lucida Sans Unicode', 'Arial', 'Helvetica', sans-serif;
+ color: #000080;
+}
+span.rvts20
+{
+ font-size: 8pt;
+}
+span.rvts21
+{
+ font-size: 9pt;
+ font-weight: bold;
+}
+span.rvts22
+{
+ font-size: 9pt;
+ font-style: italic;
+ font-weight: bold;
+}
+span.rvts23
+{
+ font-style: italic;
+ color: #000080;
+}
+span.rvts24
+{
+ color: #000080;
+ vertical-align: super;
+}
+span.rvts25
+{
+ font-size: 9pt;
+ font-weight: bold;
+ color: #000080;
+}
+span.rvts26
+{
+ font-size: 9pt;
+ color: #000080;
+}
+span.rvts27
+{
+ font-size: 9pt;
+ vertical-align: super;
+}
+span.rvts28
+{
+ font-size: 8pt;
+ font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+}
+span.rvts29
+{
+ font-size: 8pt;
+ font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+ font-weight: bold;
+}
+span.rvts30
+{
+ font-size: 8pt;
+ font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+ vertical-align: super;
+}
+span.rvts31 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #c0c0c0;
+}
+a.rvts32, span.rvts32 /* Font Style */
+{
+ font-family: 'Tahoma', 'Geneva', sans-serif;
+ font-style: italic;
+ color: #6666ff;
+ text-decoration: underline;
+}
+span.rvts33
+{
+ font-size: 8pt;
+ font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+ font-weight: bold;
+}
+span.rvts34
+{
+ font-size: 8pt;
+ font-family: 'MS Sans Serif', 'Geneva', sans-serif;
+}
+/* ========== Para Styles ========== */
+p,ul,ol /* Paragraph Style */
+{
+ text-align: left;
+ text-indent: 0px;
+ padding: 0px 0px 0px 0px;
+ margin: 0px 0px 0px 0px;
+}
+.rvps1 /* Centered */
+{
+ text-align: center;
+}
+.rvps2
+{
+}
+.rvps3
+{
+ text-indent: 18px;
+}
+.rvps4
+{
+ text-indent: -9px;
+ margin: 0px 0px 0px 9px;
+}
+.rvps5
+{
+}
+.rvps6
+{
+ text-indent: -7px;
+ margin: 0px 0px 0px 7px;
+}
+.rvps7
+{
+}
+.rvps8
+{
+ text-indent: -24px;
+ margin: 0px 0px 0px 24px;
+}
+.rvps9
+{
+ text-indent: -9px;
+ margin: 0px 0px 0px 9px;
+}
+.rvps10
+{
+ text-indent: -9px;
+ margin: 0px 0px 0px 9px;
+}
+.rvps11
+{
+}
+.rvps12
+{
+ text-indent: -24px;
+ margin: 0px 0px 0px 24px;
+}
+.rvps13 /* Paragraph Style */
+{
+ text-align: center;
+ border-color: #c0c0c0;
+ border-style: solid;
+ border-width: 1px;
+ border-right: none;
+ border-left: none;
+ padding: 2px 0px 2px 0px;
+ margin: 7px 0px 7px 0px;
+}
